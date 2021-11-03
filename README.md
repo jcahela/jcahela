@@ -1,6 +1,6 @@
-### Hello World 😁
+## Hello World 😁
 
-## I'm a software developer, musician, science lover, and open for work!
+### I'm a software developer, musician, science lover, and open for work!
 
 - 🔭 I’m currently working on setting up my developer portfolio to show off my most impressive projects!
 - 🌱 I’m currently learning how to establish an online presence 

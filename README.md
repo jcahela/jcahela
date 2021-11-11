@@ -2,7 +2,6 @@
 
 ### I'm a software developer, musician, and chess enthusiast ♟️!
 
-- 🔭 I’m currently working on setting up my developer portfolio to show off my most impressive projects!
 - 🌱 I’m currently learning how to create a chess app using object oriented design
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about any of my projects, I love talking about them!

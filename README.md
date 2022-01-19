@@ -2,7 +2,7 @@
 
 ### I'm a software developer, musician, and chess enthusiast ♟️!
 
-- 🌱 I’m currently working on adding mobile responsiveness to my portfolio via media queries
+- 🌱 I’m currently working on practicing DS&A and converting between class and functional React components
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about any of my projects, I love talking about them!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jason-cahela/)
